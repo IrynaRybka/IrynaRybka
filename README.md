@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=2000&color=0CB31B&random=false&width=600&height=60&lines=Every%2Bday%2Byou%2Band%2BI%2Bgetting%2Bbetter%2Band%2Bbetter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=2000&color=0CB31B&random=false&width=600&height=60&lines=Every+day+you+and+I+getting+better+and+better!)](https://git.io/typing-svg)
 <!--
 **IrynaRybka/IrynaRybka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
